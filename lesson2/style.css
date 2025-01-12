@@ -1,0 +1,27 @@
+
+.text1 {
+    color:aliceblue;
+}
+
+.text2 {
+    color:blueviolet;
+}
+
+
+.head {
+    background-color: rgb(26, 24, 22);
+}
+.block {
+    background-color:blueviolet;
+    color: white;
+}
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(226, 67, 43);
+}
+
+.main {
+    width: 300px;
+    background-color: aqua;
+}
